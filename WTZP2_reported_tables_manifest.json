@@ -1,0 +1,15 @@
+{
+  "source": "WTZP2_draft_v0.11.tex reported numerical appendix values",
+  "status": "reported-table archive, not original solver output",
+  "tables": [
+    "experiment_a",
+    "experiment_b",
+    "joint_limit",
+    "boundary_control"
+  ],
+  "limitations": [
+    "Original dense eigenvalue solver scripts named in the manuscript were not present in the active project folder.",
+    "CSV files are machine-readable records of manuscript-reported values, not independently recomputed eigenvalues.",
+    "Boundary-control middle_soft_gap entries for n=2,4,8,16,32 are derived from the archived centered-start difference plus the archived start-soft joint-limit gap."
+  ]
+}
